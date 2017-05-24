@@ -17,4 +17,4 @@ https://thu-wufan.space
 
 &
 
-https://github.com/wufan2304/flash-card.github.io
+https://wufan2304.github.io/flash-card.github.io/
