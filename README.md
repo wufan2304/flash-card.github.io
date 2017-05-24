@@ -13,8 +13,8 @@
 
 本项目演示地址：
 
-thu-wufan.space
+https://hu-wufan.space
 
 &
 
-github.com/flash-card.github.io
+https://github.com/flash-card.github.io
