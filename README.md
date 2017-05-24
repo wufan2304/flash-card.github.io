@@ -6,4 +6,6 @@
 项目想法：源于谷歌面试记录 
 谷歌面试教程github地址：https://github.com/jwasham/coding-interview-university
 本项目演示地址：
-thu-wufan.space.  &.  github.com/flash-card.github.io
+thu-wufan.space
+&
+github.com/flash-card.github.io
